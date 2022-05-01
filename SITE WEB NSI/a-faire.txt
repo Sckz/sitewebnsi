@@ -1,0 +1,6 @@
+a faire:
+- Questions
+- Changer boutons (barre fixe et edit du bouton HOME)
+- Page d'acceuil
+- Finir galerie
+- Github

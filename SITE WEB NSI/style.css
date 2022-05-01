@@ -1,0 +1,59 @@
+h1{
+    background : black;
+    font-family: system-ui;
+    text-align: center;
+}
+h2{
+    font-family: cursive;
+    background: red;
+    font-size: x-large;
+    text-align: center;
+    color: white;
+}
+h3{
+    background: black;
+    word-spacing: 15rem;
+    color: black;
+    font-family: sans-serif;
+    height: 30px;
+    text-align: center;
+    padding: 5px;
+}
+#div1{
+    color: white;
+    font-family: cursive;
+}
+#div2{
+    color: black;
+    font-family: cursive;
+}
+#ligne{
+    border: 2px solid red;
+}
+button {
+    display: inline-block;
+    background-color: white;
+    border-radius: 10px;
+    border: 4px double lightgrey;
+    color: black;
+    font-size: 15px;
+    width: 100px;
+    cursor: pointer;
+    font-family: system-ui;
+
+}
+input {
+    display: inline-block;
+    background-color: rgb(121, 238, 92);
+    border: 4px double black;
+    color: black;
+    font-size: 15px;
+    cursor: pointer;
+}
+#submitButton {
+    color : darkslategray;
+}
+#bg-img{
+
+    background-image: url("https://wc.wallpeperuse.com/wallp/44-442476_s.jpg");
+}
