@@ -1,0 +1,76 @@
+html{
+    font-family: cursive;
+}
+
+h1{
+    background : black;
+    text-align: center;
+}
+h2{
+    background: red;
+    font-size: x-large;
+    text-align: center;
+    color: white;
+}
+h3{
+    background: black;
+    word-spacing: 10rem;
+    color: black;
+    font-family: sans-serif;
+    height: 30px;
+    text-align: center;
+    padding: 5px;
+}
+h4{
+	background:black;
+	text-align: center;
+	font-family:system-ui;
+	color:white;
+}
+
+h5{
+	font-family:system-ui;
+	color:red ;
+}
+
+#titres{
+    color: white;
+}
+#texte{
+    color: black;
+    text-align: center;
+}
+#ligne{
+    border: 2px solid rgb(252, 12, 12);
+    background: rgb(252, 12, 12);
+}
+button {
+    display: inline-block;
+    background-color: white;
+    border-radius: 10px;
+    border: 4px double black;
+    color: black;
+    font-size: 15px;
+    width: 100px;
+    cursor: pointer;
+}
+button:active {
+    background-color: grey;
+    outline: 1px solid black;
+}
+input {
+    display: inline-block;
+    background-color: rgb(121, 238, 92);
+    border: 4px double black;
+    color: black;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+#submitButton {
+    color : darkslategray;
+}
+#bg-img{
+
+    background-image: url("./background.png");
+}

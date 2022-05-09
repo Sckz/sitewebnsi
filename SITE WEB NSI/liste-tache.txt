@@ -1,0 +1,10 @@
+Liste des tâches :
+- galerie.html -> Sacha
+- histoire.html -> Léonie
+- palmares.html -> Clarisse
+- index.html -> Léonie
+- quiz.html -> Sacha
+- style.css -> Sacha, Léonie, Clarisse
+- script.js -> Sacha
+- background.png -> Sacha
+- PHOTO -> Internet
